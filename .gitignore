@@ -1,0 +1,20 @@
+# Build directories
+/build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Executables
+/bin/
+MandelbrotSFML
+
+# Object files
+*.o
+
+# Shader files (if you have intermediate files or output)
+*.spv
+
+# macOS specific files
+.DS_Store
+
